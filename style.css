@@ -110,11 +110,12 @@
       border: none;
       outline: none;
       color: gray;
+      text-transform: uppercase;
     }
 
     .button {
       padding: 10px 20px;
-      background-color: rgb(0, 140, 255);
+      background-color: rgb(248, 80, 28);
       border: none;
       border-radius: 5px;
       color: white;
@@ -126,7 +127,7 @@
       float: right;
       font-size: 24px;
       cursor: pointer;
-      color: whitesmoke;
+      color: gray;
     }
 
     @media screen and (max-width: 480px) {
